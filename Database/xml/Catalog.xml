@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<?xml-stylesheet type="text/xsl" href="../style/Catalog.xsl"?>
+<Database>
+	<MainInfo>
+		<Server>(local)</Server>
+		<Name>MyTasks</Name>
+	</MainInfo>
+	<Tables>
+		<Table>Tasks</Table>
+	</Tables>
+	<Triggers/>
+	<Views/>
+	<StoredProcedures/>
+	<UserDefinedFunctions/>
+</Database>

@@ -1,0 +1,19 @@
+a:link {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF9900;
+  text-decoration: none;
+}
+
+table {
+  font-family: Verdana, Arial, Tahoma;
+  font-size: 9pt;
+}
